@@ -104,7 +104,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](/Figures/output_12_0.png)
 
 
 #### Plotting the radial distribution along $r$ for $q$ = 1, 2 and 3
@@ -142,7 +142,7 @@ plt.show()
 ```
 
 
-![png](output_14_0.png)
+![png](/Figures/output_14_0.png)
 
 
 ## Sweeping $ρ=κR$
@@ -181,7 +181,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![png](/Figures/output_17_0.png)
 
 
 
@@ -219,7 +219,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](/Figures/output_18_0.png)
 
 
 #### Plotting the intensity profile of these modes
@@ -268,5 +268,5 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![png](/Figures/output_20_0.png)
 
